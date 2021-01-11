@@ -37,3 +37,4 @@ WebUI.click(findTestObject('Page_Printed Summer Dress - My Store/span_Add to car
 
 WebUI.verifyElementVisible(findTestObject('Page_Printed Summer Dress - My Store/h2_Product successfully added to your shopping'))
 
+//Git demo commit
